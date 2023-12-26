@@ -1,4 +1,4 @@
-# learning-git-jorge
+# Pastel hecho en casa
 
 <!-- Receta para cocinar un delicioso pastel -->
 
@@ -18,7 +18,7 @@
 
 ## Instrucciones
 
-1. Precalienta el horno a 350°F (175°C). Engrasa y enharina dos moldes redondos de 9 pulgadas.
+1. Precalienta el horno a 400°F (175°C). Engrasa y enharina dos moldes redondos de 9 pulgadas.
 2. En un tazón grande, mezcla la harina, el azúcar, el cacao en polvo, el polvo de hornear, el bicarbonato de sodio y la sal.
 3. Agrega la leche, el aceite vegetal, los huevos y el extracto de vainilla a los ingredientes secos. Mezcla hasta que estén bien combinados.
 4. Agrega gradualmente el agua hirviendo a la masa, revolviendo continuamente. La masa será líquida, pero eso es normal.
