@@ -1,20 +1,20 @@
-# learning-git-jorge
+# Receta de pastel de chocolate
 
 <!-- Receta para cocinar un delicioso pastel -->
 
 ## Ingredientes
 
-- 2 tazas de harina común
-- 1 1/2 tazas de azúcar granulada
-- 1/2 taza de cacao en polvo sin azúcar
-- 1 1/2 cucharaditas de polvo de hornear
-- 1 cucharadita de bicarbonato de sodio
-- 1/2 cucharadita de sal
-- 1 taza de leche
-- 1/2 taza de aceite vegetal
-- 2 huevos grandes
-- 2 cucharaditas de extracto de vainilla
-- 1 taza de agua hirviendo
+- [ ] 2 tazas de harina común
+- [ ] 1 1/2 tazas de azúcar granulada
+- [ ] 1/2 taza de cacao en polvo sin azúcar
+- [ ] 1 1/2 cucharaditas de polvo de hornear
+- [ ] 1 cucharadita de bicarbonato de sodio
+- [ ] 1/2 cucharadita de sal
+- [ ] 1 taza de leche
+- [ ] 1/2 taza de aceite vegetal
+- [ ] 2 huevos grandes
+- [ ] 2 cucharaditas de extracto de vainilla
+- [ ] 1 taza de agua hirviendo
 
 ## Instrucciones
 
