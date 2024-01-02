@@ -2,14 +2,14 @@
 
 ## Ingredientes
 
-- 1 taza de mantequilla sin sal
-- 2 tazas de azúcar granulada
-- 4 huevos grandes
-- 1 cucharadita de extracto de vainilla
-- 1 taza de harina para todo uso
-- 1/2 taza de cacao en polvo
-- 1/4 cucharadita de sal
-- 1/2 taza de nueces picadas (opcional)
+- [ ] 1 taza de mantequilla sin sal
+- [ ] 2 tazas de azúcar granulada
+- [ ] 4 huevos grandes
+- [ ] 1 cucharadita de extracto de vainilla
+- [ ] 1 taza de harina para todo uso
+- [ ] 1/2 taza de cacao en polvo
+- [ ] 1/4 cucharadita de sal
+- [ ] 1/2 taza de nueces picadas (opcional)
 
 ## Instrucciones
 
