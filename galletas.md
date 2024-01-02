@@ -1,16 +1,16 @@
-# Receta de Galletas de Avena
+# Galletas de Avena
 
 ## Ingredientes
 
-- 1 taza de harina de trigo
-- 1 taza de avena en hojuelas
-- 1/2 taza de azúcar moreno
-- 1/2 taza de azúcar blanca
-- 1/2 taza de mantequilla derretida
-- 1 huevo
-- 1 cucharadita de esencia de vainilla
-- 1/2 cucharadita de bicarbonato de sodio
-- 1/4 cucharadita de sal
+- [ ] 1 taza de harina de trigo
+- [ ] 1 taza de avena en hojuelas
+- [ ] 1/2 taza de azúcar moreno
+- [ ] 1/2 taza de azúcar blanca
+- [ ] 1/2 taza de mantequilla derretida
+- [ ] 1 huevo
+- [ ] 1 cucharadita de esencia de vainilla
+- [ ] 1/2 cucharadita de bicarbonato de sodio
+- [ ] 1/4 cucharadita de sal
 
 ## Instrucciones
 
