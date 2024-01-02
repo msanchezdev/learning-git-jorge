@@ -1,4 +1,4 @@
-# Receta de brownies
+# Brownies de chocolate
 
 ## Ingredientes
 
